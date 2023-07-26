@@ -1,5 +1,5 @@
-token: NjRhNGJkYjI5YmNhYzUwMDllYmMzNjA1OjZzQXNNbngwcG5LcjJTRjBub3hZNllnRXZETFRobGZpZmYya295eDZyaVU9
-endpoint: https://app.datarobot.com/api/v2
+token: ********************************Your Token Here************************************
+endpoint: ************************Your Endpoint Here***************************
 # endpoint: https://app2.datarobot.com/api/v2
 # You may need to uncomment line 5 below if you are connecting through a VPN.
 # We recommend you disconnect from the VPN to be most successful in class though
